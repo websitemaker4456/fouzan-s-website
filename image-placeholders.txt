@@ -1,0 +1,29 @@
+# Image Placeholder URLs
+
+These URLs can be used temporarily until you add your own images to the assets folder.
+
+## Profile Images
+- Home page profile: assets/Fouzan.png
+- About page profile: assets/Fouzan 2.png
+
+## Portfolio Images
+- Portfolio 1 (Voice AI): assets/portfolio/portfolio1.jpg
+- Portfolio 2 (Data): assets/portfolio/portfolio2.jpg
+- Portfolio 3 (Automation): assets/portfolio/portfolio3.jpg
+- Portfolio 4 (Analytics): assets/portfolio/portfolio4.jpg
+- Portfolio 5 (Performance): assets/portfolio/portfolio5.jpg
+- Portfolio 6 (AI Coach): assets/portfolio/portfolio6.jpg
+
+## Using These Images
+
+To use these placeholder images directly in your HTML, you can update the src attributes:
+
+```html
+<!-- Example for profile image -->
+<img src="assets/Fouzan.png" alt="Fouzan Tanveer">
+
+<!-- Example for portfolio image -->
+<img src="assets/portfolio/portfolio1.jpg" alt="AI Voice Agent System">
+```
+
+For production, you may want to optimize these images further or replace them with even more relevant visuals. 
